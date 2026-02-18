@@ -1,4 +1,4 @@
-# 📈 Stock Price Predictor — Machine Learning
+# Stock Price Predictor — Machine Learning
 
 A Python machine learning project that pulls real stock market data and predicts the next day's closing price using engineered financial features and two trained models. Built with `yfinance`, `scikit-learn`, and `matplotlib`.
 
